@@ -1,4 +1,5 @@
 
+ alert('Selamat Datang Di Kuis Sedrhana Tebak Ibu Kota Negara');
  //deklarasi variable score awal
  var quizScore = 0 ;
 
